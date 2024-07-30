@@ -4,3 +4,5 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy
 - Facade
+
+-> Melhorias no comentários sobre os padrões de projeto, organização dos println e nome das variáveis
